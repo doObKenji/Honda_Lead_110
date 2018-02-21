@@ -1,0 +1,44 @@
+<projectDescription>
+  <id>1259067188443</id>
+  <name>Lead-110</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/gustavo.felizola/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/gustavo.felizola/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/main.fla</defaultApp>
+  <rootURI>file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="nav.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/nav.fla</uri>
+    <uri label="preload.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/preload.fla</uri>
+    <uri label="index.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/index.fla</uri>
+    <uri label="home.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/home.fla</uri>
+    <uri label="galeria.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/galeria.fla</uri>
+    <uri label="especificacoes.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/especificacoes.fla</uri>
+    <uri label="downloads.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/downloads.fla</uri>
+    <uri label="cores.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/cores.fla</uri>
+    <uri label="como_comprar.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/como_comprar.fla</uri>
+    <uri label="caracteristicas.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/caracteristicas.fla</uri>
+    <uri label="barra_linha2011.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/barra_linha2011.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="barra_linha2011.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/barra_linha2011.fla</uri>
+    <uri label="main.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/main.fla</uri>
+    <uri label="como_comprar.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/como_comprar.fla</uri>
+    <uri label="screen2.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/screen2.fla</uri>
+    <uri label="screen.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/screen.fla</uri>
+    <uri label="cores.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/cores.fla</uri>
+    <uri label="galeria.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/galeria.fla</uri>
+    <uri label="downloads.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/downloads.fla</uri>
+    <uri label="home.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/home.fla</uri>
+    <uri label="caracteristicas.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/caracteristicas.fla</uri>
+    <uri label="nav.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/nav.fla</uri>
+    <uri label="index.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/index.fla</uri>
+    <uri label="especificacoes.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/swf/especificacoes.fla</uri>
+    <uri label="preload.fla">file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao/flash/preload.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

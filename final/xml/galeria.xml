@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<galeria>
+	<fotos>
+		<thumb>images/galeria/thumb/1.jpg</thumb>
+		<imagem>images/galeria/medium/1.jpg</imagem>
+		<ampliada>images/galeria/ampliada/1.jpg</ampliada>
+		<download>images/galeria/full/1.jpg</download>
+	</fotos>
+	<fotos>
+		<thumb>images/galeria/thumb/2.jpg</thumb>
+		<imagem>images/galeria/medium/2.jpg</imagem>
+		<ampliada>images/galeria/ampliada/2.jpg</ampliada>
+		<download>images/galeria/full/2.jpg</download>
+	</fotos>
+	<fotos>
+		<thumb>images/galeria/thumb/3.jpg</thumb>
+		<imagem>images/galeria/medium/3.jpg</imagem>
+		<ampliada>images/galeria/ampliada/3.jpg</ampliada>
+		<download>images/galeria/full/3.jpg</download>
+	</fotos>
+	<fotos>
+		<thumb>images/galeria/thumb/4.jpg</thumb>
+		<imagem>images/galeria/medium/4.jpg</imagem>
+		<ampliada>images/galeria/ampliada/4.jpg</ampliada>
+		<download>images/galeria/full/4.jpg</download>
+	</fotos>
+	<fotos>
+		<thumb>images/galeria/thumb/5.jpg</thumb>
+		<imagem>images/galeria/medium/5.jpg</imagem>
+		<ampliada>images/galeria/ampliada/5.jpg</ampliada>
+		<download>images/galeria/full/5.jpg</download>
+	</fotos>
+</galeria>

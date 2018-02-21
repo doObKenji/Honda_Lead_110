@@ -1,0 +1,54 @@
+﻿<project>
+  <name>LEAD110</name>
+  <language>AS3</language>
+  <player>10</player>
+  <version>3.2.3</version>
+  <tweenMax>11.38</tweenMax>
+  <width>980</width>
+  <height>610</height>
+  <width100>true</width100>
+  <height100>true</height100>
+  <centerX>true</centerX>
+  <centerY>true</centerY>
+  <bgColor>FFFFFF</bgColor>
+  <fps>30</fps>
+  <uri>file:///Z|/Clientes/HONDA/2010/01_PRODUTOS/LEAD110/01_JOBS/01_HOTSITE_Linha2011/03_producao</uri>
+  <flashPath>flash</flashPath>
+  <publishPath>final</publishPath>
+  <classesPath>src</classesPath>
+  <siteXmlPath>xml</siteXmlPath>
+  <classPackage>lead</classPackage>
+  <template>Actionscript</template>
+  <seo>false</seo>
+  <domain>www.domain.com/</domain>
+  <modified>1290451907305</modified>
+  <optimizeTypes>
+    <bitmapAsset>true</bitmapAsset>
+    <bitmapSpriteAsset>true</bitmapSpriteAsset>
+    <soundAsset>true</soundAsset>
+    <soundClipAsset>true</soundClipAsset>
+    <netStreamAsset>true</netStreamAsset>
+    <textAsset>true</textAsset>
+    <xmlAsset>true</xmlAsset>
+    <styleSheetAsset>true</styleSheetAsset>
+    <jsonAsset>true</jsonAsset>
+    <byteArrayAsset>true</byteArrayAsset>
+  </optimizeTypes>
+  <publishData>
+    <node label="flash" checked="1">
+      <node label="swf" icon="flashFileIcon" checked="1">
+        <node label="caracteristicas.fla" icon="flashFileIcon" checked="1" src="swf/caracteristicas.fla"/>
+        <node label="como_comprar.fla" icon="flashFileIcon" checked="1" src="swf/como_comprar.fla"/>
+        <node label="cores.fla" icon="flashFileIcon" checked="1" src="swf/cores.fla"/>
+        <node label="downloads.fla" icon="flashFileIcon" checked="1" src="swf/downloads.fla"/>
+        <node label="especificacoes.fla" icon="flashFileIcon" checked="1" src="swf/especificacoes.fla"/>
+        <node label="galeria.fla" icon="flashFileIcon" checked="1" src="swf/galeria.fla"/>
+      </node>
+      <node label="home.fla" icon="flashFileIcon" checked="1" src="home.fla"/>
+      <node label="index.fla" icon="flashFileIcon" checked="1" src="index.fla"/>
+      <node label="nav.fla" icon="flashFileIcon" checked="1" src="nav.fla"/>
+      <node label="preload.fla" icon="flashFileIcon" checked="1" src="preload.fla"/>
+      <node label="main.fla" icon="mainFileIcon" checked="1" src="main.fla"/>
+    </node>
+  </publishData>
+</project>

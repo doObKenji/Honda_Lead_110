@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site title="Honda Lead110: %PAGE%" menu="true">
+    <page id="index" src="index.swf">
+        <page id="nav" src="nav.swf" depth="top">
+            <page id="home" title="Home" src="home.swf" menu="true" />
+			<page id="caracteristicas" title="Caracteristicas" src="swf/caracteristicas.swf" menu="true" depth="top" />
+            <page id="especificacoes" title="Especificacoes" src="swf/especificacoes.swf" menu="true" />
+            <page id="cores" title="Cores" src="swf/cores.swf" menu="true" />
+            <page id="galeria" title="Galeria" src="swf/galeria.swf" menu="true" depth="top"/>
+            <page id="downloads" title="Downloads" src="swf/downloads.swf" menu="true" />
+			<page id="como_comprar" title="Como Comprar" src="swf/como_comprar.swf" menu="true" />
+			
+			<asset id="barra2011" src="barra_linha2011.swf" />
+        </page>
+    </page>
+</site>
+
